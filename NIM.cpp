@@ -214,6 +214,7 @@ void tolva( int* hruga )
 	if( !samtals( hruga ) )
 	{
 		cout << endl << "Eg vann.  Thad gengur bara betur naest!" << endl << endl;
+cout << "Helgi vinnur alltaf" << endl;
 		cout << "Sladu a einhvern lykil...   " << endl;
 		getchar( );
 	}
